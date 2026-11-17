@@ -8,15 +8,15 @@ Modeled a stylized Reptar wagon from a physical toy reference. The car body was 
 
 **Techniques:** polygon modeling, topology refinement, smoothing, UV unwrapping, Substance Painter texturing, Arnold lighting and rendering.
 
-### Physical reference and render comparison
+### Physical reference and final outdoor render
 
-| Physical reference | Maya render |
+| Physical reference | Final outdoor render |
 | --- | --- |
-| ![Physical Reptar wagon reference](01-Car-Modeling/car-reference.jpg) | ![Maya render of the Reptar wagon](01-Car-Modeling/car-render.jpg) |
+| ![Physical Reptar wagon reference](01-Car-Modeling/car-reference.jpg) | ![Final outdoor render of the Reptar wagon](01-Car-Modeling/car-render-hero.jpg) |
 
-### Final outdoor render
+### Maya render
 
-![Final outdoor render of the Reptar wagon](01-Car-Modeling/car-render-hero.jpg)
+![Maya render of the Reptar wagon](01-Car-Modeling/car-render.jpg)
 
 ## Splatoon Animation
 
